@@ -1,5 +1,5 @@
 # Dental-Abscess-Fracture-Detection-Neural-Network
-
+Artificial intelligence (AI).
 A dental abscess is a collection of pus that can form inside the teeth, in the gums, or in the bone that holds the teeth in place. It's caused by a bacterial infection. An abscess at the end of a tooth is called a periapical abscess. An abscess in the gum is called a periodontal abscess.
 Cracked or fractured teeth can have many causes. They can cause symptoms like pain and swelling. 
 
