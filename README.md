@@ -14,7 +14,7 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 
 dental-detection-pawar-december-8-2024.ipynb: Imaging data read, Test-Train Split, Neural, plotting, noise removal, Convolution Neural 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
-, model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax).
+, model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax). Evaluation metrics:
 	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
 	•	recall0.73325
 	•	f1-score0.7567079463364293
